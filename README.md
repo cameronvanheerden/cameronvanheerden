@@ -3,7 +3,7 @@
 # Hi there, I'm Cameron 👋 
 ### **Junior Embedded & IoMT Software Engineer**
 
-*Bridging the gap between low-level hardware telemetry, ASP.NET Core backends, and native mobile platforms.*
+*Bridging low-level hardware telemetry, ASP.NET Core backends, Azure Cloud Storage Solutions, and native mobile platforms.*
 
 ---
 
@@ -17,13 +17,25 @@
 
 ## 🚀 About Me
 
-I am a final-year **Computer & Information Science** student specializing in **Application Development**. With a strong foundation in the **.NET ecosystem & C#**, alongside self-directed expertise in **Embedded Systems, IoT, and the Internet of Medical Things (IoMT)**, I design and build resilient, real-time medical and automation solutions.
+I am a final-year **Computer & Information Science** student specializing in **Application Development**. With a strong foundation in the **.NET ecosystem & C#**, alongside self-directed expertise in **Embedded Systems, IoT, IoMT, and Azure Cloud Architecture**, I design and build resilient, real-time medical and automation solutions.
+
+I am highly proficient in **Microsoft Azure Cloud Services** (as demonstrated in my **CLDV6212** coursework), with hands-on experience leveraging:
+- 📁 **Azure File Shares**
+- 📦 **Azure Blob Storage**
+- 📊 **Azure Table Storage**
+- 📬 **Azure Queue Storage**
 
 Driven by a relentless work ethic cultivated through competitive sport and a purpose-led commitment to service, my goal is to leverage full-stack .NET and embedded engineering to build medical technology that improves patient outcomes and elevates healthcare access across South Africa and beyond.
 
 ---
 
 ## ⚡ Key Focus & Projects
+
+<div align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -42,7 +54,50 @@ Driven by a relentless work ethic cultivated through competitive sport and a pur
 
 ---
 
-## 💻 Tech Stack & Tools
+## 📂 Top Featured Repositories
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="center">📌 Top Repositories</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="10%"><b>1</b></td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/PROG7311-POE-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" width="120" />
+      </td>
+      <td>
+        <a href="https://github.com/EMECPE/prog7311-2026-poe-cameronvanheerden"><b>PROG7311 - Advanced Software Development POE</b></a><br/>
+        <sub>Comprehensive .NET application engineering focusing on modular architecture, domain modeling, and enterprise design patterns.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="10%"><b>2</b></td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/CLDV6212-POE-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" width="120" />
+      </td>
+      <td>
+        <a href="https://github.com/VCNMB-2nd-years/vcnmb-cldv6212-2025-poe-cameronvanheerden"><b>CLDV6212 - Azure Cloud Development POE</b></a><br/>
+        <sub>Cloud-native enterprise application integrating Azure Blob Storage, Table Storage, Queue Storage, and File Shares for distributed storage management.</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 💻 Tech Stack & Services
+
+### ☁️ Azure Cloud & Storage Architecture (CLDV6212)
+<p>
+  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob Storage"/>
+  <img src="https://img.shields.io/badge/Azure_Table_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Table Storage"/>
+  <img src="https://img.shields.io/badge/Azure_Queue_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Queue Storage"/>
+  <img src="https://img.shields.io/badge/Azure_File_Shares-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure File Shares"/>
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+</p>
 
 ### 🌐 Core Languages & Frameworks
 <p>
@@ -67,14 +122,12 @@ Driven by a relentless work ethic cultivated through competitive sport and a pur
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-### ☁️ Databases, Cloud & DevOps
+### 🗄️ Databases, DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
@@ -97,28 +150,19 @@ Driven by a relentless work ethic cultivated through competitive sport and a pur
 
 <br/>
 
-### 🏆 Achievements & Contributions
+### 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cameronvanheerden&theme=react&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-<br/>
-
-<details>
-  <summary><b>📈 Additional Stats & Repositories</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=cameronvanheerden&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-  </div>
-</details>
-
 ---
 
 <div align="center">
 
-### ✍️ Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+### 📖 Daily Bible Verse
+
+[![Bible Verse](https://daily-bible-verse.vercel.app/api/verse)](https://daily-bible-verse.vercel.app/)
 
 <br/><br/>
 
