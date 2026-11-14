@@ -10,47 +10,36 @@
 
 ## A little about me
 
-<img align="right" src="avatar.png?v=blue" alt="Illustrated avatar of Cameron" width="155" />
+### Junior Developer | C# · ASP.NET Core · Azure · IoT
 
-I'm Cameron, a final-year application development student at **Emeris, Nelson Mandela Bay**, seeking my first professional junior developer role.
+I am a final-year application development student at Emeris,
+Nelson Mandela Bay, seeking my first professional developer role.
 
-**C# is my strongest language.** I build web applications and APIs, work with Azure services, and connect microcontrollers to software through UART, LoRa and Bluetooth.
+C# is my strongest language. I enjoy building APIs, web applications
+and systems that connect microcontrollers with cloud services.
 
-My academic projects span logistics, cloud e-commerce, hydroponic monitoring and ECG telemetry. I enjoy the point where code meets something physical.
+## Technical Projects
 
-I'm looking for a team where I can contribute, learn through feedback and keep improving my engineering skills.
+| Project | What it demonstrates |
+|---|---|
+| TechMove | Logistics workflows across an MVC portal, REST API and Android app |
+| SmartHydro | API development, ESP32 camera integration and LoRa telemetry |
+| ABC Retail | Azure Functions and cloud storage integration |
+| PulseLink | ECG sensor and API integration in an academic prototype |
 
-<br clear="right" />
+## Technical Skills
 
-## Technologies
+- Languages: C#, Java, JavaScript, TypeScript, Kotlin, C and C++
+- Frameworks: ASP.NET Core, Entity Framework Core, React and Next.js
+- Databases: PostgreSQL, SQL Server, Oracle Database, MySQL and MongoDB
+- Cloud: Azure Functions, Azure Storage, Azure App Service and Firebase
+- Infrastructure: Docker, Linux and DigitalOcean virtual machines
+- Embedded: ESP32, Arduino, UART, LoRa, Bluetooth and 4G gateways
 
-| Area | Experience |
-| :--- | :--- |
-| Languages | **C#**, Java, JavaScript, TypeScript, Kotlin, C / C++ |
-| Frameworks | ASP.NET Core MVC / Web API, Entity Framework Core, React, Next.js |
-| Databases | PostgreSQL, SQL Server, Azure SQL, Oracle Database, MySQL, MongoDB |
-| Cloud and infrastructure | Azure Functions, Azure Storage, Azure App Service, Azure Container Apps, Firebase, DigitalOcean Linux VMs, Docker |
-| Embedded | ESP32, Arduino, UART, LoRa, Bluetooth, Wi-Fi / SoftAP, 4G gateways |
-| Tools | Git, GitHub, Visual Studio, VS Code, Android Studio, Arduino IDE |
+## Current Goal
 
-## Technical projects
-
-### [SmartHydro](https://github.com/EMECPE/insy7315-2026-wil-smarthydro)
-
-Academic IoT project for monitoring and controlling hydroponic crops and fodder systems. Developed SmartHydroAPI components with ASP.NET Core and PostgreSQL, integrated an ESP32 camera into MVC, and connected a Heltec LoRa 32 fodder unit through a SenseLoRa 4G LTE Cat 1 gateway. Paired a FireBeetle 2 ESP32-C6 with a Seeed Studio XIAO ESP32-S3 and Wio-SX1262 bridge for UART and LoRa byte exchange. Supported Bluetooth and SoftAP access.
-
-### [TechMove Logistics Management System](https://github.com/EMECPE/prog7311-2026-poe-cameronvanheerden)
-
-Academic logistics platform connecting an ASP.NET Core MVC portal, C# REST API and Kotlin Android app. Built order and delivery workflows, role-based dashboards, JWT authentication and SignalR status updates. Integrated QR-coded PDF waybills with CameraX and ML Kit scanning. Used Entity Framework Core with SQL Server, Docker, Azure Container Apps and GitHub Actions for automated testing and builds.
-
-### [ABC Retail Cloud E-Commerce Application](https://github.com/VCNMB-2nd-years/vcnmb-cldv6212-2025-poe-cameronvanheerden)
-
-Academic e-commerce application connecting an ASP.NET Core MVC web app with an Azure Functions backend. Integrated Azure Blob Storage, Queue Storage, Table Storage and Azure Files file shares. Used Azure SQL Database for user accounts, roles and authentication data shared across the web and Function Apps. Demonstrates C# development, serverless integration and working with multiple Azure storage services.
-
-### [PulseLink Remote Cardiac Monitoring System](https://github.com/EMECPE/prog7314-2026-poe-pulselink)
-
-Academic tele-cardiology prototype connecting bedside ECG recording with remote review. Co-developed hardware and API components using an AD8232 sensor, ESP32-C3 Super Mini and ESP32-2432S028R touchscreen. The ASP.NET Core API supports session ingestion and PDF reports in private Azure Blob Storage. The Kotlin Android app provides role-based workflows, offline synchronisation and Firebase notifications. Uses UART, BLE, Firebase Authentication and Realtime Database.
-
+Join a development team where I can contribute, learn from code
+reviews and grow my software and IoT engineering skills.
 <details>
 <summary>Learning and development</summary>
 
