@@ -10,7 +10,7 @@
 
 ## A little about me
 
-<img align="right" src="avatar.png" alt="Illustrated avatar of Cameron" width="155" />
+<img align="right" src="avatar.png?v=blue" alt="Illustrated avatar of Cameron" width="155" />
 
 I'm Cameron, a final-year application development student at **Emeris, Nelson Mandela Bay**, seeking my first professional junior developer role.
 
